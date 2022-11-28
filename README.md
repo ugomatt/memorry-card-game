@@ -1,6 +1,6 @@
-# Fantasy Memory Game
+# Memory Card Game
 
-Play the game [here]([https://fantasy-memory-game.netlify.app/](https://gamefi-memory-game.netlify.app/))
+Play the game [here]([https://fantasy-memory-game.netlify.app/](https://gamefi-memory-game.netlify.app/)
 
 As part of the Hackathon: Everscale ElysiumEverscale GameFi Bounty, I created a memory card game using React, Typescript and Styled components.
 
