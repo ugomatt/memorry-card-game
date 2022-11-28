@@ -1,10 +1,12 @@
 # Fantasy Memory Game
 
-Play the game [here](https://fantasy-memory-game.netlify.app/)
+Play the game [here]([https://fantasy-memory-game.netlify.app/](https://gamefi-memory-game.netlify.app/))
 
-As a fun side project, I created a memory game using React, Typescript and Styled components.
+As part of the Hackathon: Everscale ElysiumEverscale GameFi Bounty, I created a memory card game using React, Typescript and Styled components.
 
-I wanted to challenge myself to design and implement the logic myself without any tutorials and I'm really happy with the way it turned out. It was also a great way to continue learning, as I had only spent a day with using Typescript previously and never used styled components before. This proved challenging at times, but I found the official docs for both really helpful and concise.
+Each card represents an NFT, We store the NFT metadata onchain. This allows changing properties of objects (characters/items/traits) onchain. Other contracts can read these properties, allowing you to move all game logic onchain.
+
+I wanted to challenge myself to design and implement the Everscale smart contract development based on the actor model, as I had only spent a day with using Typescript previously and never used styled components before. This proved challenging at times, but I found the official docs for both really helpful and concise.
 
 ## Reflections
 
@@ -19,6 +21,7 @@ I wanted to challenge myself to design and implement the logic myself without an
 If I were to continue this project further, my next steps would be:
 
 - to add animations to the cards to further increase the user engagement,
+- Allow users to easily transfer their NFT
 - add a timer to the game as an extra challenge
 - make the app fully responsive
 - add some unit tests to the individual components and functions using Jest
