@@ -2,7 +2,7 @@
 
 Play the game https://gamefi-memory-game.netlify.app/
 
-As part of the Hackathon: Everscale ElysiumEverscale GameFi Bounty, I created a memory card game using React, Typescript and Styled components.
+As part of the Hackathon: Everscale ElysiumEverscale GameFi Bounty, I created a memory card game using React, Typescript, Styled components and Everscale SDK.
 
 Each card represents an NFT, We store the NFT metadata onchain. This allows changing properties of objects (characters/items/traits) onchain. Other contracts can read these properties, allowing you to move all game logic onchain.
 
